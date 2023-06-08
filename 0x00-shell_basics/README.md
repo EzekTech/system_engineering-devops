@@ -7,3 +7,4 @@ Task-5    ls -la  :displays all content of a directory including hidden ones num
 Task-6    mkdir /tmp/my_first_directory :creates my_first_directory inside tmp directory
 Task-7    mv betty /tmp /tmp/my_first_directory : move file betty into directory inside tmp director
 Task-8    rm betty  : deletes file betty
+Task-9    rm -r my-first_directory  : deletes the directory
