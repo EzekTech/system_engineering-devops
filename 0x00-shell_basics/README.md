@@ -1,2 +1,2 @@
-pwd - present workin directory
-echo "/n"
+Task-0  pwd - present working directory
+Task-!  l-list content of current working directory 
