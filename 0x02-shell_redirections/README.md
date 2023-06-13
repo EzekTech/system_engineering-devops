@@ -8,3 +8,4 @@ Task-6     list first three lines od iacta file
 Task-7     input Best School in  '\*\\'\'"Best School"\'\'\\*$\?\*\*\*\*\*:) file
 Task-8     print ouput inside ls_cwd_content file
 Task-9     duplicate last line
+Task-10    delete all files ending with js
